@@ -1,0 +1,105 @@
+Abstract
+Political violence, demonstration events and strategic development has been one of the big problem in Nigeria.
+
+This analysis examines Nigeria’s political landscape from the year 2000 to July 13, 2023, encompassing political violence events, public demonstrations, and strategic developments. By exploring the data, we aim to gain insights into trends and patterns, contributing to a deeper understanding of Nigeria’s journey through these impactful events
+
+Introduction
+The analysis of all political violence events, demonstration events, and strategic development reported in Nigeria is a comprehensive endeavor aimed at gaining a profound understanding of the complex dynamics and underlying factors contributing to violence in the country. By harnessing the power of data and analytics, this analysis endeavors to provide evidence-based insights that can inform effective strategies to mitigate violence and reduce fatalities in the future.
+
+Nigeria’s history is marked by various forms of political violence, including armed conflicts, communal clashes, and extremist activities. These incidents have had severe consequences for the nation’s stability, social fabric, and human security. The proliferation of demonstration events and the emergence of strategic development projects in recent times have further complicated the security landscape, necessitating a deeper exploration of their implications.
+
+The core objective of this analysis is not merely to collect and present raw data but to derive meaningful and actionable insights from it. By carefully examining historical trends, spatial patterns, and temporal distributions of violence, researchers aim to identify recurring triggers and hotspots that may lead to violence escalation. This information can then be utilized to devise targeted interventions to de-escalate potential flashpoints and prevent violence from erupting.
+
+Data Cleaning and Preparation Steps:
+Step 1: Data Extraction from acleddata.com
+
+The raw dataset is obtained from acleddata.com, which contains information about political violence events, demonstration events, and strategic development reported in Nigeria.
+Step 2: Data Cleaning in Python
+
+Load the dataset into Python using a suitable library (e.g., Pandas).
+Perform an initial exploration of the data to identify missing values, duplicates, and data types inconsistencies.
+Drop any irrelevant columns that do not contribute to the analysis.
+Rename columns with unclear or ambiguous names to more descriptive ones for better understanding.
+Handle missing values by either imputing them or removing rows/columns based on the context and significance of the missing data.
+Address any data quality issues, such as outliers or erroneous values, through appropriate methods like data transformations or capping.
+Step 3: Export Data to Excel for Further Cleaning
+
+After performing the initial data cleaning in Python, export the cleaned dataset to an Excel file for further manipulation and preparation.
+Step 4: Data Cleaning in Excel
+
+Open the exported dataset in Excel for additional cleaning and preparation.
+Use Excel’s functions and formulas to perform further data cleaning tasks like text manipulation, data validation, and conditional formatting.
+Merge or split columns as required to enhance the structure and usability of the data.
+Check for consistency in date formats and convert them to a consistent format if necessary.
+Ensure proper categorization of variables (e.g., converting numeric columns to numerical data types, text columns to categorical data types).
+Step 5: Export the Prepared Dataset to Power BI
+
+Once the data cleaning and preparation are completed in Excel, export the dataset to a suitable format (e.g., CSV) that can be easily imported into Power BI.
+Step 6: Data Visualization and Analysis in Power BI
+
+Import the prepared dataset into Power BI.
+Create data visualizations, such as charts, tables, and maps, to analyze the patterns and trends in political violence events, demonstration events, and strategic development in Nigeria.
+Utilize Power BI’s features to filter, slice, and drill down into the data for deeper insights.
+Implement calculated measures and columns, if needed, to perform specific calculations or aggregations.
+Use Power BI’s dashboard and report functionalities to present the findings of the analysis in a visually appealing and insightful manner.
+The dataset was refined and made ready for insightful analysis and insight generation using Power BI by following these data cleaning and preparation steps. The cleaning procedure makes sure that the analysis’s findings are accurate and dependable.
+
+State-Wise Analysis
+States with highest rank of fatalities
+Borno: With a total fatality of 38,281 out of 105,194, making it the state with the highest number of fatality
+Kaduna: With a total fatality of 9,469 Kaduna State is the second state with the highest number of fatality
+2. States with lowest rank of fatalities
+
+Ekiti: With a total fatality of 109, making it the state with the lowest number of fatality, followed by Jigawa state which also has a total fatality of 119.
+
+3. Types of events reported:
+
+Battles
+Explosion/Remote Violence
+Protests
+Riots
+Strategic Development
+Violence Against Civilians
+Perpetrator Relationship Analysis
+Based on the data, the most common recorded event types, are as follows
+
+Battles: 42.09% and a total of 44,272 fatalities
+Violence against Civilians: 39.09% and a total of 41,119 fatalities
+Explosions/remote violence: 14.12% and a total of 14,852 fatalities
+Riots: 4.38% and a total of 4,610 fatalities
+Protests: 0.17% and a total of 177 fatalities
+Strategic development: 0.17% and a total of 164 fatalities
+
+Conclusion
+The analysis of all political violence events, demonstration events, and strategic development reported in Nigeria has shed light on the complex and multifaceted nature of the challenges faced by the country. Through this comprehensive examination, we have identified several problems that contribute to the perpetuation of violence and fatalities. However, alongside these challenges, we have also uncovered potential solutions and strategies that can be employed to address them effectively. Here are the key conclusions:
+
+Root Causes of Violence:
+Problem: Nigeria faces deep-rooted social, economic, and political issues that contribute to violence, including ethnic tensions, religious divides, political grievances, and economic disparities.
+Solution: Addressing the root causes requires holistic and inclusive approaches. Engaging communities, promoting social cohesion, and fostering economic opportunities can help in reducing the factors that fuel conflicts.
+2. Lack of Early Warning Mechanisms:
+
+Problem: The absence of an effective early warning system makes it challenging to anticipate and prevent violent escalations.
+Solution: Developing an early warning mechanism based on data-driven indicators can enable timely interventions, providing opportunities to de-escalate conflicts before they turn violent.
+3. Ineffective Interventions:
+
+Problem: Broad, one-size-fits-all interventions may not effectively address the diverse contexts and triggers of violence in different regions of Nigeria.
+Solution: Targeted interventions based on data analysis can be more impactful. Policymakers and security agencies can allocate resources and design strategies tailored to specific areas and communities.
+4. Lack of Trust and Inclusivity:
+
+Problem: Limited community engagement and lack of trust between stakeholders hinder efforts to resolve conflicts peacefully.
+Solution: Inclusive dialogue and participation of local communities in the decision-making process foster trust and ownership of interventions, promoting sustainable peacebuilding.
+5. Fragmented Policy Framework:
+
+Problem: The absence of a coherent policy framework can hinder comprehensive efforts to tackle political violence.
+Solution: Evidence-based policy formulation, informed by data analysis, can create a cohesive and coordinated approach to address the diverse aspects of violence.
+6. Measurement of Impact:
+
+Problem: Without monitoring and evaluating the impact of interventions, it is challenging to assess the effectiveness of strategies.
+Solution: Regularly measuring and analyzing the outcomes of interventions based on data insights can help stakeholders refine their approaches and improve outcomes.
+7. Limited International Collaboration:
+
+Problem: Limited collaboration with international organizations and countries may limit access to shared knowledge and resources.
+Solution: Engaging in international collaborations can facilitate the exchange of best practices, resources, and expertise, contributing to more effective conflict resolution efforts.
+In conclusion, the analysis of all political violence events, demonstration events, and strategic development in Nigeria has provided valuable insights and evidence to tackle the challenges posed by violence and fatalities. By addressing the root causes, establishing an early warning system, implementing targeted interventions, promoting community engagement, and adopting evidence-based policies, Nigeria can work towards a future characterized by reduced violence, sustained peace, and inclusive development. The commitment to data-driven decision-making and cooperation among stakeholders will be crucial in achieving lasting solutions and building a brighter future for the nation.
+
+
